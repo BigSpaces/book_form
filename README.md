@@ -1,19 +1,9 @@
 # BookForm
 
-To start your Phoenix server:
+Another exercise from [@BrooklinJazz](https://github.com/brooklinjazz) at [Dockyard Academy](https://academy.dockyard.com/).
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
+In this case, we learn about:
+- [Phoenix Forms](https://hexdocs.pm/phoenix_html/Phoenix.HTML.Form.html)
+- How to use [Ecto Changeset](https://hexdocs.pm/ecto/Ecto.Changeset.html) to validate our data.
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
-
-## Learn more
-
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+![image](https://media.giphy.com/media/pdSncNyYgaH0wqaCqp/giphy.gif)
